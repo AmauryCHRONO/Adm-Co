@@ -1,0 +1,2 @@
+## Exercice 3
+Pour améliorer mon code, j'ai du modifier la disposition des éléments dans mes fonctions, ajouter des espaces à certains endroits et améliorer la lisbilité. J'ai du aussi changer le nom de mes variables pour ajouter de la compréhension. Pour cela, j'ai du utiliser pylint, qui donne un score represantant la compréhensibilité du code et black  qui va améliore le code automatiquement.

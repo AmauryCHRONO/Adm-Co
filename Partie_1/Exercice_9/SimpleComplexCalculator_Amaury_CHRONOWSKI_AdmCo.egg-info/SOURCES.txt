@@ -1,0 +1,8 @@
+README.md
+setup.py
+SimpleComplexCalculator_Amaury_CHRONOWSKI_AdmCo.egg-info/PKG-INFO
+SimpleComplexCalculator_Amaury_CHRONOWSKI_AdmCo.egg-info/SOURCES.txt
+SimpleComplexCalculator_Amaury_CHRONOWSKI_AdmCo.egg-info/dependency_links.txt
+SimpleComplexCalculator_Amaury_CHRONOWSKI_AdmCo.egg-info/top_level.txt
+src/package_Amaury_CHRONOWSKI/__init__.py
+src/package_Amaury_CHRONOWSKI/calculator.py
