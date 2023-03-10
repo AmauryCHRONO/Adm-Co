@@ -1,0 +1,6 @@
+flake8==3.7.7
+pytest==5.4.1
+pytest-cov==2.8.1
+pytest-datafiles==2.0
+wheel>= 0.34
+setuptools>=41.2
